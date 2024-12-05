@@ -1,0 +1,12 @@
+name: flutter_news_app
+description: A simple Flutter app to display news, blogs, and reports.
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.0.15
+  url_launcher: ^6.3.1
